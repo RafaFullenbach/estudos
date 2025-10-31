@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "dbb71da0569666b1",
+        "id": "8574a5c1896bd3b1",
         "type": "tabs",
         "children": [
           {
-            "id": "48745816b58603c3",
+            "id": "77bee4b6a53c0f6a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Redes/Protocolos/Tipos de protocolos/Protocolos de Rede/Protocolo IP.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Protocolo IP"
+              "title": "Nova aba"
             }
           }
         ]
@@ -169,9 +165,14 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "48745816b58603c3",
+  "active": "e262ecdd8b0ae93e",
   "lastOpenFiles": [
-    "Redes/Protocolos/Tipos de protocolos/Protocolos de Rede/Protocolo IP.md",
+    "Redes/Protocolos/Tipos de protocolos/Protocolos da camada de Aplicação/Protocolo DNS.md",
+    "Imagens/Pasted image 20251031170117.png",
+    "Redes/Protocolos/Tipos de protocolos/Protocolos da camada de Rede/Protocolo IP.md",
+    "Redes/Protocolos/Modelo OSI/7 Camadas.md",
+    "Redes/Protocolos/Tipos de protocolos/Protocolos da camada de Aplicação",
+    "Redes/Protocolos/Tipos de protocolos/Sem título.md",
     "Imagens/Pasted image 20251031141444.png",
     "Imagens/Pasted image 20251031141657.png",
     "Imagens/Pasted image 20251031141740.png",
@@ -181,9 +182,7 @@
     "Imagens/Pasted image 20251031141644.png",
     "Imagens/Pasted image 20251031141632.png",
     "Imagens/Pasted image 20251031141613.png",
-    "Imagens/Pasted image 20251031141455.png",
-    "Redes/Protocolos/Modelo OSI/7 Camadas.md",
-    "Redes/Protocolos/Tipos de protocolos/Protocolos de Rede",
+    "Redes/Protocolos/Tipos de protocolos/Protocolos da camada de Rede",
     "Redes/Protocolos/Oque são protocolos de rede.md",
     "Redes/Protocolos/Tipos de protocolos",
     "Redes/Protocolos/Protocolo IP.md",
@@ -205,7 +204,6 @@
     "Software/Linguagens de programação/Javascript/Sobre/Plataformas de execução do Javascript.md",
     "Software/Linguagens de programação/Javascript/Sobre",
     "Tópicos de Estudo C sharp.md",
-    "Software/Sistemas operacionais/Windows",
     "Tópicos de Estudo Angular.md",
     "Linguagens de programação/Sem título.md",
     "Bem-vindo.md"
