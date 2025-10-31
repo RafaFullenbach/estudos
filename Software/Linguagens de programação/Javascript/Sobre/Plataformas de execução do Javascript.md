@@ -1,0 +1,10 @@
+- Principais locais (Softwares, Plataformas) que o Javascript roda:
+	- Navegadores (Chrome, Safari, Firefox, etc...)
+	- Node.js (Servidor)
+	- Apache CouchDB (Banco de dados NoSQL)
+	- Adobe Acrobat (Suporta scripts)
+	- AWS Lambda / Google Cloud Functions / Azure Functions
+	- Electron (Framework desktop)
+	- ElasticSearch (Mecanismo de busca)
+	- Redis (Servidor cache)
+	- Photoshop / Illustrator / Adobe After Effects (via ExtendScript para automação)

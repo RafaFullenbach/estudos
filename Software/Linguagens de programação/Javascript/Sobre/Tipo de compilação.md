@@ -1,0 +1,3 @@
+- O tipo de compilação do Javascript é o JIT (Just-in-time), que é uma compilação em tempo de execução, na qual o código é traduzido de uma representação intermediária (byte-code), ou uma linguagem de alto nível (Javascript, Java, etc...) para código de máquina em tempo de execução ao invés de antes de execução.
+
+- O JIT é usado comumente em navegadores web para otimizar o desempenho do código Javascript.
