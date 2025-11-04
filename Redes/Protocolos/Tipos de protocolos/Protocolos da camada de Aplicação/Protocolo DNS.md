@@ -32,3 +32,21 @@
 - Seu roteador ou provedor de Internet (ISP) tem um **servidor DNS recursivo**.  
   É ele que faz o “trabalho sujo” de **descobrir o IP** perguntando aos outros servidores DNS da Internet. Se o servidor recursivo também **não souber**, ele começa a subir a hierarquia:
 
+- O servidor recursivo **consulta os servidores raiz** do DNS.  
+    Esses servidores não sabem o IP do `google.com`, mas sabem onde encontrar informações sobre **domínios de nível superior (TLD)** — como `.com`, `.org`, `.net`, etc.
+    
+- Os **servidores raiz** então respondem dizendo:  
+    “Eu não sei o IP de `google.com`, mas o servidor responsável pelos domínios `.com` é este aqui.”
+    
+- O servidor recursivo então **pergunta aos servidores TLD** (no caso, os do `.com`).  
+    Os servidores TLD também não têm o IP do `google.com`, mas sabem quem é o **servidor autoritativo** do domínio `google.com`.
+    
+- Os **servidores autoritativos** são os que têm a resposta definitiva — eles armazenam os **registros DNS** do domínio, incluindo o tipo **A** (que associa o nome ao endereço IP).
+    
+- O servidor recursivo recebe finalmente a resposta do servidor autoritativo:  
+    “O IP de `google.com` é `142.250.72.196`.”
+    
+- Essa resposta é **guardada em cache** tanto pelo servidor recursivo quanto pelo seu computador, por um tempo determinado (definido pelo TTL — _Time To Live_), para que futuras consultas sejam muito mais rápidas.
+    1
+- Agora que o computador tem o IP, ele pode **abrir uma conexão TCP/IP** com o servidor do Google e iniciar o protocolo HTTP(S).
+
