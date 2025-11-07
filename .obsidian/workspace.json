@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "60757c286f24b04f",
+        "id": "2055878785e3acf4",
         "type": "tabs",
         "children": [
           {
-            "id": "e3d36297632990b9",
+            "id": "a48b1efcb37098bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tecnologia/Software/Linguagens de programação/Javascript/Tipos de dados/Objeto/Herança de protótipos.md",
+                "file": "Tecnologia/Software/Linguagens de programação/Html/Tags/h1 - h6 - Os elementos de cabeçalho de sessão Html.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Herança de protótipos"
+              "title": "h1 - h6 - Os elementos de cabeçalho de sessão Html"
             }
           }
         ]
@@ -169,12 +169,22 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "e3d36297632990b9",
+  "active": "e262ecdd8b0ae93e",
   "lastOpenFiles": [
-    "Pasted image 20251106112807.png",
-    "Tecnologia/Software/Linguagens de programação/Javascript/Variáveis/Hoisting (Içamento).md",
+    "Tecnologia/Software/Linguagens de programação/Html/Atributos/Atributo Lang.md",
+    "Tecnologia/Software/Linguagens de programação/Html/Tags/h1 - h6 - Os elementos de cabeçalho de sessão Html.md",
+    "Pasted image 20251107110402.png",
+    "Pasted image 20251107110139.png",
+    "Tecnologia/Software/Linguagens de programação/Html/Tags",
+    "Tecnologia/Software/Linguagens de programação/Html/Atributos",
+    "Tecnologia/Software/Linguagens de programação/Html/Linguagem de marcação.md",
+    "Tecnologia/Software/Linguagens de programação/Html/Oque é Html.md",
+    "Economia/A Fabula do Estado da Ilha/EP - 2.md",
+    "Economia/A Fabula do Estado da Ilha/EP - 1.md",
     "Tecnologia/Software/Linguagens de programação/Javascript/Tipos de dados/Objeto/Herança de protótipos.md",
-    "Pasted image 20251105172530.png",
+    "Imagens/Pasted image 20251106112807.png",
+    "Tecnologia/Software/Linguagens de programação/Javascript/Variáveis/Hoisting (Içamento).md",
+    "Imagens/Pasted image 20251105172530.png",
     "Sem título.md",
     "Tecnologia/Software/Linguagens de programação/Javascript/Tipos de dados/Objeto",
     "Tecnologia/Software/Linguagens de programação/Javascript/Tipos de dados/Symbol.md",
@@ -197,25 +207,14 @@
     "Tecnologia/Redes/Cibersegurança/Conceitos básicos da Cibersegurança.md",
     "Tecnologia/Redes/Protocolos/Tipos de protocolos/Protocolos da camada de Apresentação/Protocolo TSL.md",
     "Tecnologia/Redes/Protocolos/Modelo OSI/Oque é o modelo OSI.md",
-    "Tecnologia/Redes/Protocolos/Modelo OSI/7 Camadas.md",
-    "Tecnologia/Redes/Internet/Oque é a Internet.md",
     "Imagens/Pasted image 20251030170723.png",
-    "Economia/A Fabula do Estado da Ilha/EP - 1 (Fabula do Estado da ilha).md",
     "Imagens/Pasted image 20251104105253.png",
     "Imagens/Pasted image 20251104105320.png",
     "Imagens/Pasted image 20251104105301.png",
     "Economia/A Fabula do Estado da Ilha",
     "Economia",
     "Tecnologia",
-    "Tecnologia/Software/Navegadores Browsers",
     "Imagens/Pasted image 20251104094332.png",
-    "Imagens/Pasted image 20251104094303.png",
-    "Tecnologia/Redes/Cibersegurança",
-    "Tecnologia/Redes/Protocolos/Tipos de protocolos/Protocolos da camada de Rede/Protocolo IP.md",
-    "Tecnologia/Redes/Protocolos/Oque são protocolos de rede.md",
-    "Imagens/Pasted image 20251031170117.png",
-    "Redes/Protocolos/Tipos de protocolos/Sem título.md",
-    "Imagens/Pasted image 20251031141444.png",
-    "Imagens/Pasted image 20251031141657.png"
+    "Imagens/Pasted image 20251104094303.png"
   ]
 }

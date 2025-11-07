@@ -4,7 +4,7 @@
 
 - As atividades são apenas para subsistência, não existe moeda, as trocas são feitas por escambo, um paga a construção da sua cabana com coco, um plantador de trigos paga seu barco de pesca com trigo e etc....
 
-- Tudo ocorre bem na ilha, até o dia em que o colhedor de coco resolve tomar a força as terras do plantador de trigo, e assim o faz, os outros habitantes da ilha temendo que a superioridade física de alguns possam ser usada para acabar com a harmonia, se unem e encontram como solução estabelecer algumas regras de seguranças e assim estabelecer a convivência e paz entre todos.
+- Tudo ocorre bem na ilha, até o dia em que o colhedor de coco resolve tomar a força as terras do plantador de trigo, e assim o faz. Os outros habitantes da ilha temendo que a superioridade física de alguns possam ser usada para acabar com a harmonia, se unem e encontram como solução estabelecer algumas regras de seguranças e assim estabelecer a convivência e paz entre todos.
 
 - Com a criação do estado da ilha, os habitantes da ilha elegem um presidente para governar a ilha, e outros 3 representantes para que escrevam as regras que passarão a ser seguidas por todos, logo em seguida elegem um juiz que para fazer cumprir essas regras, estão criados os 3 poderes da ilha, o executivo o legislativo e o judiciário.
 

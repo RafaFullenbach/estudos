@@ -1,0 +1,3 @@
+- Html (Hypertext Markup Language) é o bloco de construção mais básico da Web. Ele define o significado e a estrutura do conteúdo da Web. Outras tecnologias, além do Html, são geralmente usadas para descrever a aparência/apresentação de uma página da Web (Css) ou a funcionalidade/comportamento (Javascript).
+
+- "Hipertexto" refere-se a links que conectam páginas da web umas às outras, seja dentro de um mesmo site ou entre sites diferentes. Os links são um aspecto fundamental da Web. Ao enviar conteúdo para a Internet e vinculá-lo a páginas criadas por outras pessoas, você se torna um participante ativo da World Wide Web.
